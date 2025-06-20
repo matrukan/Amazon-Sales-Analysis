@@ -1,6 +1,6 @@
 # Analyzing Amazon Sales data
 
-![Analyzing Amazon Sales data](https://github.com/vinit714/Tableau-Dashboards/assets/52816788/f201a492-c387-40b9-87eb-c371ffd3a457)
+![image](https://github.com/user-attachments/assets/d0d4f88c-f3e7-4264-9b58-22cc41dd6ba4)
 
 ## Problem Statement
 Sales management has gained importance to meet increasing competition and the
